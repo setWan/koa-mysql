@@ -1,0 +1,19 @@
+{
+  "name": "aituoli",
+  "version": "1.0.0",
+  "description": "测试项目",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-http-request": "^2.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.2",
+    "mysql": "^2.18.1"
+  }
+}
